@@ -1,12 +1,12 @@
 ###IP Configuration
-HOST_IP=<<IP_ADDRESS>>
+HOST_IP=IP_ADDRESS
 
 #Credentials
-ADMIN_PASSWORD=<<password>>
-MYSQL_PASSWORD=<<password>
-RABBIT_PASSWORD=<<password>
-SERVICE_PASSWORD=<<password>
-SERVICE_TOKEN=<<password>
+ADMIN_PASSWORD=password
+DATABASE_PASSWORD=password
+RABBIT_PASSWORD=password
+SERVICE_PASSWORD=password
+SERVICE_TOKEN=password
 
 ####Tempest
 enable_service tempest
